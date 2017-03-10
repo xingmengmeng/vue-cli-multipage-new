@@ -17,6 +17,9 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+html{
+  background:#fff;
+}
 h1, h2 {
   font-weight: normal;
 }
